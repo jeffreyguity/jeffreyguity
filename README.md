@@ -13,7 +13,7 @@
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/jeffreyguity/azure-network-protocols)
 - <b>Virtual Private Networks</b>
   - [VPN Setup in Virtual Machine]
-    (https://github.com/jeffreyguity/azure-network-protocols)
+  (https://github.com/jeffreyguity/Setting-UP-A-VPN)
 <h2>🤳Connect with me:</h2>
 
 
